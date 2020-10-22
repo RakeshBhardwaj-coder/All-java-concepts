@@ -19,8 +19,11 @@ int headLights=2;
         this.wheels = wheels;//using 'this.' to explain  to the computer wheels and color is form the "class Constructor.vehicle"
         this.Color = Color;//and after the equals the name of wheel and color is calling function from the main class
         headLights = 2;
-
     }
+    //Example of an error
+    //vehicle(){
+        //this is a default constructor
+    //}
 }
 public class Constructor {
 
@@ -35,6 +38,12 @@ public class Constructor {
         vehicle redCar = new vehicle(4,"red");
         System.out.println(redCar.wheels+" wheeler "+redCar.Color+" color car with "+ bike.headLights+" headlights is here,are you willing to " +
                 "buy this amazing car,If I get chance then I'm gonna.");
+
+//      vehicle anError = new vehicle();
+        /*this is a default constructor.
+        and you can't call default constructor because you has created lots of constructor now this need a different parameter
+        and this a empty parameter you can't create now a default constructor.*/
+
 
     }
 }
