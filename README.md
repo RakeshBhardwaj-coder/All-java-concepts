@@ -10,5 +10,6 @@ There is some concept for you, should to laern in Java Programming
    -[Go and Watch](https://youtu.be/RRncvRwWH_o)
 - Polymorphism
    -[Go and learn](https://youtu.be/cjbiC2DAyMk)
-
+-  Use of Static
+   -[Go and Watch](https://youtu.be/2iFQBDF8ImA)
 
