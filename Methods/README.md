@@ -1,6 +1,6 @@
-#Related Topics Covered here
+# Related Topics Covered here
 - Method.
 - Method Overloading.
 
-#Interview Qution
+# Interview Qution
 - Java is a pass by value or Pass by reference.
