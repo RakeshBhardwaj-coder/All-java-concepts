@@ -1,6 +1,5 @@
 # All-java-concepts
-There is some concept for you to laern about the Java programming
-
+There is some concept for you, should to laern in Java Programming
 - Constructor
    -[Go and watch](https://youtu.be/RC_NgFoMsj4)
 - Encapulation
