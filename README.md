@@ -9,3 +9,5 @@ There is some concept for you to laern about the Java programming
    -[Go and learn](https://youtu.be/cjbiC2DAyMk)
 - Constructor
   -[Go and watch](https://youtu.be/RC_NgFoMsj4)
+- Methods
+  -[Go and Watch](https://youtu.be/RRncvRwWH_o)
