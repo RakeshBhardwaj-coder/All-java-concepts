@@ -12,3 +12,5 @@ There is some concept for you, should to laern in Java Programming
    -[Go and learn](https://youtu.be/cjbiC2DAyMk)
 -  Use of Static
    -[Go and Watch](https://youtu.be/2iFQBDF8ImA)
+ -Interface
+  -[Go and Watch](https://youtu.be/zSX7N5MolB8)
